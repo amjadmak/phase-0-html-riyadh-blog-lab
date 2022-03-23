@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: Brush Script MT, serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -53,6 +53,7 @@ img {
 
 p {
   font-size: 1em;
+  font-family: Luminari;
 }
 
 a {
